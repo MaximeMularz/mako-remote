@@ -362,7 +362,7 @@ public class MainActivity extends ActionBarActivity implements SensorEventListen
                             );
                 }
             } catch (Exception e) {
-                Log.e(TAG, "Failed to launch application", e);
+                Log.e(TAG, "Faailed to launch application", e);
             }
         }
 
